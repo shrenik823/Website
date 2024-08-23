@@ -1,0 +1,56 @@
+.body{
+	margin: 0px;
+	font-family: sans-serif;
+}
+
+.course-section{
+	padding: 50px 0px;
+	width: 100%;
+	background: lightblue;
+}
+
+.course-section-inner{
+	width: 1320px;
+	margin: auto;
+}
+.course-section-heading{
+	border: 1px solid red;
+	text-align: center;
+}
+
+.course-row{
+	width: 100%;
+}
+
+.course-items{
+	width: 370px;
+	background: white;
+	text-align: center;
+	float: left;
+	margin: 15px;
+	padding: 20px;
+}
+
+.clear{
+	clear: both;
+}
+
+.review-section{
+	width: 100%;
+	margin-top: 50px;
+	background: #001c34;
+	padding: 50px 0px;
+}
+.review-heding{
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}
+.reviewItems{
+	width: 370px;
+	padding: 20px;
+	color: white;
+	margin: 15px;
+	float: left;
+	background: #0b2f4f;
+}
